@@ -5,6 +5,8 @@ subtitle : "(Co) Supervision & Mentoring"
 active : true
 weight : 51
 
+pager: false
+
 reading_time: false
 backlinks: false
 profile: false
@@ -19,6 +21,8 @@ header:
   image: ""
 
 ---
+
+{{< toc is_open=true >}}
 
 ### PhD candidates
 |    |    |    |    |

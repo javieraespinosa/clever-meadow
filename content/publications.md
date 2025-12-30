@@ -5,6 +5,8 @@ subtitle: ""
 active: true
 weight: 31
 
+pager: false
+
 reading_time: false
 backlinks: false
 profile: false
@@ -17,6 +19,7 @@ editable: false
 header:
   caption: ""
   image: ""
+
 ---
 
 Available in my Digital Footprint

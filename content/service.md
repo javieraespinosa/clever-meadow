@@ -6,12 +6,15 @@ active : true
 toc: true
 weight : 61
 
+pager: false
 
 reading_time: false
 backlinks: false
 profile: false
 
 show_breadcrumb: false
+show_related: false
+
 
 share: false
 commentable: false
@@ -21,6 +24,8 @@ header:
   image: ""
   
 ---
+
+{{< toc is_open=true >}}
 
 ### Chair & Organizer
 

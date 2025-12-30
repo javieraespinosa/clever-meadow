@@ -1,45 +1,95 @@
 ---
+type: page
 title: 'Projects'
-date: 2024-05-19
-type: landing
+date: ""
 
-design:
-  # Section spacing
-  spacing: '5rem'
+pager: false
 
-# Page sections
-sections:
+reading_time: false
+backlinks: false
+profile: false
 
-  - block: collection
-    content:
-      title: Projects
-      subtitle: ''
-      text: |-
-        Coordinator, Researcher and/or Research Engineer
+show_breadcrumb: false
 
-      # Page type to display. E.g. post, talk, publication...
-      page_type: project
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 0
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: article-grid2 #article-grid2 # date-title-summary2 # article-grid2  # card   date-title-summary
-      # Reduce spacing
-      # spacing:
-      #   padding: [0, 0, 0, 0]
-
+share: false
+commentable: false
+editable: false
+header:
+  caption: ""
+  image: ""
 
 ---
+
+* [**ANR LIFRANUM**](https://projet-lifranum.univ-lyon3.fr/)   
+  Identification and structure of digital French literature   
+  `2020-2024`
+
+* [**EU-INTERREG TRIPLE-A**](http://triple-a-interreg.eu/)     
+  Stimulating the Adoption of low-carbon technologies by homeowners through increased Awareness and easy Access   
+  [github](https://github.com/javieraespinosa/Triple-A-household-energy-analysis) [poster](https://github.com/javieraespinosa/Triple-A-household-energy-analysis/blob/master/GreenHome.pdf)    
+  `2019` 
+
+* **LDE-BOLD-CITIES SHARED DATA**   
+  Urban Data Management for Disaster Relief in Cities   
+  `2019`
+
+
+* [**PACK-AMBITION Rhône-Alpes SUMMIT**](http://summit.imag.fr/)    
+  Multi-cloud services for the integration of heterogeneous data collections in multi-devices environments guided by SLA’s   
+  `2019-2022`
+
+
+* **IPGH-PAT IPGH**   
+  Building the history of climate change in Latin America   
+  `2017-2018`
+
+
+* **LINKSIUM-LIG CLOUDING-THINGS**   
+  Hybrid operators for querying IoT historical and data streams  
+  `2017`
+
+
+* [**MS-BSC-LAFMIA CONCERNS**](http://concerns.bsc.es/)     
+  Dealing with Crowd Distress by Building Secure Immigration Corridors   
+  `2017`
+
+
+* **STiC-AMSUD SWANS**    
+  Semantic Web Analytics: Processing Big Data on Energy Consumption   
+  `2014-2016`
+
+
+* [**PEPS-CNRS POLIWEB**](https://poliweb.imag.fr/home/)    
+  Analyzing Big Data Collections Produced by Political Parties   
+  `2013-2014`
+
+
+* [**EU-FP7-IRSES CASES**](https://cordis.europa.eu/project/rcn/102488_en.html)     
+  Customized Advisory Services for Energy Efficient Manufacturing Systems   
+  `2012-2016`
+
+
+* **STiC-AMSUD CLEVER**    
+  Cloud-based Latin-American Environmental Virtual Observatory    
+  `2011-2013`
+
+
+* [**EU-FP7-IRSES S2EUNET**](http://s2eunet.org/)    
+  Security, Services, Networking and performance of next generation IP-based multimedia wireless Networks   
+  `2010-2014`
+
+
+* **Grenoble INP BQR RED-SHINE**    
+  Reliably and Semantically Integrating Web Information by Mashing-up Data Services   
+  `2009-2010`
+
+
+* **Microsoft Research LACCIR E-CLOUDSS**   
+  Building E-Government Clouds Using Distributed Semantic Services   
+  `2008-2010`
+
+
+* **ECOS–NORD ORCHESTRA**    
+  Transactional Services Orchestration   
+  `2007-2011`
+  

@@ -5,8 +5,6 @@
 
 main:
 
-
-
   - name: About
     url: /
     weight: 10
@@ -26,7 +24,7 @@ main:
     url: '/service'
     weight: 60
   - name: Contact
-    url: '/#contact'
+    url: '/contact'
     weight: 70
 
 

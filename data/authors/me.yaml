@@ -2,7 +2,7 @@ schema: "hugoblox/author/v1"
 slug: "me"
 is_owner: true
 name:
-  display: "Javier Espinosa"
+  display: "Javier Espinosa, PhD"
   given: "Javier"
   family: "Espinosa"
   alternate: ""
@@ -12,16 +12,16 @@ postnominals:
   - "PhD"
 status:
   icon: null
-role: "Lecturer-Researcher"
+role: "Associate Professor"
 bio: ""
 affiliations:
-  - name: "University of Lyon 1"
+  - name: " University Lyon 1"
     url: "https://www.univ-lyon1.fr/"
   - name: "ERIC Research Lab"
     url: "https://eric.msh-lse.fr/en"
 links:
   - icon: "at-symbol"
-    url: "mailto:javier.espinosa@univ-lyon1.fr"
+    url: "/contact"
     label: "E-mail Me"
   - icon: "brands/github"
     url: "https://github.com/javieraespinosa"
@@ -32,45 +32,45 @@ links:
   - icon: "academicons/orcid"
     url: "https://orcid.org/0000-0002-4015-195X"
 interests:
-  - "Data Intensive Systems"
+  - "Large-Scale Data Systems"
   - "Big Data"
   - "Cloud Computing"
   - "Data Visualization"
-education:
-  - degree: "PhD Computer Science"
-    institution: "University of Grenoble, France"
-  - degree: "MS Computer Science"
-    institution: "UDLAP, Mexico"
-  - degree: "BS Computer Science"
-    institution: "UDLAP, Mexico"
-skills:
-  - name: "Technical Skills"
-    items:
-      - label: "Python"
-        level: 5
-      - label: "Machine Learning"
-        level: 5
-      - label: "Cloud Computing"
-        level: 4
-  - name: "Research & Communication"
-    items:
-      - label: "Academic Writing"
-        level: 5
-      - label: "Conference Presentations"
-        level: 4
-      - label: "Grant Proposals"
-        level: 4
-languages:
-  - name: "English"
-    level: 5
-    label: "Native"
-  - name: "Spanish"
-    level: 4
-    label: "Fluent"
-awards:
-  - title: "Best Paper Award"
-    awarder: "NeurIPS"
-    date: "2022-12-01"
-    summary: "Awarded for groundbreaking work on efficient training of large models."
-    icon: "hero/trophy"
+# education:
+#   - degree: "PhD Computer Science"
+#     institution: "University of Grenoble"
+#   - degree: "MS Computer Science"
+#     institution: "UDLAP"
+#   - degree: "BS Computer Systems Engineering"
+#     institution: "UDLAP"
+# skills:
+#   - name: "Technical Skills"
+#     items:
+#       - label: "Python"
+#         level: 5
+#       - label: "Machine Learning"
+#         level: 5
+#       - label: "Cloud Computing"
+#         level: 4
+#   - name: "Research & Communication"
+#     items:
+#       - label: "Academic Writing"
+#         level: 5
+#       - label: "Conference Presentations"
+#         level: 4
+#       - label: "Grant Proposals"
+#         level: 4
+# languages:
+#   - name: "English"
+#     level: 5
+#     label: "Native"
+#   - name: "Spanish"
+#     level: 4
+#     label: "Fluent"
+# awards:
+#   - title: "Best Paper Award"
+#     awarder: "NeurIPS"
+#     date: "2022-12-01"
+#     summary: "Awarded for groundbreaking work on efficient training of large models."
+#     icon: "hero/trophy"
 weight: null

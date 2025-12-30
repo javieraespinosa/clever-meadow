@@ -22,8 +22,6 @@ header:
 
 ---
 
-Available in my Digital Footprint
-
 * [Google Scholar](https://scholar.google.com/citations?user=RkXsr4YAAAAJ&amp;hl=en)
 * [DBLP](https://dblp.org/pid/11/1137)
 * [ResearchGate](https://www.researchgate.net/profile/Javier_Espinosa-Oviedo)

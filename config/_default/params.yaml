@@ -29,7 +29,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   theme:
     # Mode: 'light', 'dark', or 'system' (follows OS preference)
-    mode: light
+    mode: dark
     # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
     pack: "contrast"
     # Optional: Override theme pack colors
@@ -88,7 +88,7 @@ hugoblox:
     # Feature toggles
     search: false
     theme_toggle: true
-    theme_picker: false
+    theme_picker: true
     language_switcher: true
     # Call-to-action button
     cta:

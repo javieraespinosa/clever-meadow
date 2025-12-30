@@ -199,7 +199,7 @@ hugoblox:
   analytics:
     google: {}
     google_tag_manager:
-      container_id: "" # GTM-XXXXXXX
+      container_id: "GTM-NXRR536" # GTM-XXXXXXX
     plausible:
       domain: ""
     fathom:

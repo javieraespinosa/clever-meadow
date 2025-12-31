@@ -14,7 +14,7 @@ pager: false
 
 ---
 
-<span id="mail" style=" font-weight: bold; color: #e83e8c;"></span>
+<span id="mail" style="" class="font-semibold text-primary-600 dark:text-primary-400"></span>
 <script>
   const el = document.getElementById("mail");
   const parts = ["amF2aWVyLmVzcGlub3Nh", "dW5pdi1seW9uMS5mcg=="]; 

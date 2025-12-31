@@ -14,23 +14,18 @@ pager: false
 
 ---
 
-<span id="magic" style="cursor:pointer; text-decoration: underline; ">
-  click to reveal email
-</span>
+<span id="mail" style=" font-weight: bold; color: #e83e8c;"></span>
+<script>
+  const el = document.getElementById("mail");
+  const parts = ["amF2aWVyLmVzcGlub3Nh", "dW5pdi1seW9uMS5mcg=="]; 
+  el.textContent = atob(parts[0]) + "@" + atob(parts[1]);
+</script>
 
 
 **Department of Informatics**    
 Université Claude Bernard Lyon 1      
 Bât. Nautibus, Campus la DOUA   
 25 av. Pierre de Coubertin, 69622 Villeurbanne, France 
-
-<script>
-  const el = document.getElementById("magic");
-  const parts = ["amF2aWVyLmVzcGlub3Nh", "dW5pdi1seW9uMS5mcg=="]; 
-  el.addEventListener("click", () => {
-    el.textContent = atob(parts[0]) + "@" + atob(parts[1]);
-  });
-</script>
 
 </br>
 
